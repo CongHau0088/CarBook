@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|c:\\users\\admin\\onedrive\\desktop\\desktop\\projectdotnet\\carbook\\carbook\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03428BA5-AAA4-4355-973F-E37B8D7EB75B}|CarBook\\CarBook.csproj|solutionrelative:carbook\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CarBook\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T13:03:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "CarBook\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:55:11.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Contact\\Index.cshtml*",
+              "RelativeToolTip": "CarBook\\Views\\Contact\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:29:45.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Pricing\\Index.cshtml*",
+              "RelativeToolTip": "CarBook\\Views\\Pricing\\Index.cshtml*",
+              "ViewState": "AgIAANsAAAAAAAAAAAAUwEgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:37:14.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Product\\Detail.cshtml*",
+              "RelativeToolTip": "CarBook\\Views\\Product\\Detail.cshtml*",
+              "ViewState": "AgIAADwBAAAAAAAAAAAUwGEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:35:18.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Product\\Index.cshtml*",
+              "RelativeToolTip": "CarBook\\Views\\Product\\Index.cshtml*",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAUwNAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:34:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Service\\Index.cshtml*",
+              "RelativeToolTip": "CarBook\\Views\\Service\\Index.cshtml*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:03:06.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\About\\Index.cshtml*",
+              "RelativeToolTip": "CarBook\\Views\\About\\Index.cshtml*",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwJ0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:33:08.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Blog\\Detail.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Blog\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Blog\\Detail.cshtml*",
+              "RelativeToolTip": "CarBook\\Views\\Blog\\Detail.cshtml*",
+              "ViewState": "AgIAANMAAAAAAAAAAAAUwPgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:31:55.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Blog\\Index.cshtml*",
+              "RelativeToolTip": "CarBook\\Views\\Blog\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:30:45.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarBook\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:45:17.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "CarBook\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "CarBook\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:46:00.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CarBook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:58:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CarBook\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:48:26.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "CarBook\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "CarBook\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:43:56.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "CarBook\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "CarBook\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:45:18.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CarBook\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CarBook\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:44:47.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "CarBook\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "CarBook\\Controllers\\PricingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:50:52.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "CarBook\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "CarBook\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:44:19.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarBook\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarBook\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:50:28.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Program.cs",
+              "RelativeDocumentMoniker": "CarBook\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Program.cs",
+              "RelativeToolTip": "CarBook\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:43:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CarBook\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:48:30.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CarBook\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CarBook\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:48:27.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
