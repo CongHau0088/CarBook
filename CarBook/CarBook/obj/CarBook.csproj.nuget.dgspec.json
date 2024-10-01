@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\CarBook.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectCarBook\\CarBook\\CarBook\\CarBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\CarBook.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectCarBook\\CarBook\\CarBook\\CarBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\CarBook.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectCarBook\\CarBook\\CarBook\\CarBook.csproj",
         "projectName": "CarBook",
-        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\CarBook.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectCarBook\\CarBook\\CarBook\\CarBook.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectDotNet\\CarBook\\CarBook\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Desktop\\ProjectCarBook\\CarBook\\CarBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
