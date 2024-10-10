@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "Hash": "gITc98UxNJTuIqoWajvbvDV7qNEHg44ajvfCMIevb04=",
+=======
+  "Hash": "f0BrFj/leARqcg3AQ67RJtINdA77BZV/6tekhAn/iUA=",
+>>>>>>> Stashed changes
   "Source": "CarBook",
   "BasePath": "_content/CarBook",
   "Mode": "Default",
@@ -17,6 +21,7 @@
   ],
   "Assets": [
     {
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.8\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -1157,6 +1162,8 @@
       "OriginalItemSpec": "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.8\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+=======
+>>>>>>> Stashed changes
       "Identity": "D:\\Lap_Trinh_Java\\CarBook\\CarBook\\CarBook\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CarBook.styles.css",
       "SourceId": "CarBook",
       "SourceType": "Computed",
@@ -1195,6 +1202,7 @@
       "OriginalItemSpec": "D:\\Lap_Trinh_Java\\CarBook\\CarBook\\CarBook\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CarBook.bundle.scp.css"
     },
     {
+<<<<<<< Updated upstream
       "Identity": "D:\\Lap_Trinh_Java\\CarBook\\CarBook\\CarBook\\wwwroot\\admin\\css\\maps\\style.css.map",
       "SourceId": "CarBook",
       "SourceType": "Discovered",
@@ -3213,6 +3221,12 @@
       "SourceId": "CarBook",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Lap_Trinh_Java\\CarBook\\CarBook\\CarBook\\wwwroot\\",
+=======
+      "Identity": "D:\\Lap_Trinh_Java\\CarBook\\CarBook\\CarBook\\wwwroot\\css\\ajax-loader.gif",
+      "SourceId": "CarBook",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Lap_Trinh_Java\\CarBook\\CarBook\\CarBook\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/CarBook",
       "RelativePath": "css/ajax-loader.gif",
       "AssetKind": "All",

@@ -5,6 +5,7 @@
       "PackagePath": "staticwebassets\\CarBook.bundle.scp.css"
     },
     {
+<<<<<<< Updated upstream
       "Id": "D:\\Lap_Trinh_Java\\CarBook\\CarBook\\CarBook\\wwwroot\\admin\\css\\maps\\style.css.map",
       "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
     },
@@ -429,6 +430,8 @@
       "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
+=======
+>>>>>>> Stashed changes
       "Id": "D:\\Lap_Trinh_Java\\CarBook\\CarBook\\CarBook\\wwwroot\\css\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
     },
