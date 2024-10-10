@@ -3,9 +3,12 @@
     "",
     "\\CarBook",
     "\\CarBook\\CarBook",
+    "\\CarBook\\CarBook\\Controllers",
+    "\\CarBook\\CarBook\\Properties",
     "\\CarBook\\CarBook\\Views",
+    "\\CarBook\\CarBook\\Views\\About",
     "\\CarBook\\CarBook\\Views\\Service"
   ],
-  "SelectedNode": "\\CarBook\\CarBook\\Views\\Service\\Index.cshtml",
+  "SelectedNode": "\\CarBook\\CarBook\\Controllers\\PricingController.cs",
   "PreviewInSolutionExplorer": false
 }

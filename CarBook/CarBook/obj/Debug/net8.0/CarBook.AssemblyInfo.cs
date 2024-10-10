@@ -11,10 +11,15 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+932a2ecd553dc86b7db1dfa5deecc9d45484a6ab")]
+<<<<<<< Updated upstream
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da2c273ce420b7dafc6ec5c94771fd83f1d3c32f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+483565353bdbcc2329eb6ecff848715b66e94c69")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("CarBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
