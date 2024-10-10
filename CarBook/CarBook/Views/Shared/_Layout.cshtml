@@ -42,9 +42,10 @@
                     <li class="nav-item"><a asp-action="Index" asp-controller="Service" class="nav-link">Services</a></li>
                     <li class="nav-item"><a asp-action="Index" asp-controller="Pricing" class="nav-link">Pricing</a></li>
                     <li class="nav-item"><a asp-action="Index" asp-controller="Product" class="nav-link">Cars</a></li>
-                    <li class="nav-item"><a asp-action="Index" asp-controller="Blog" class="nav-link">Blog</a></li>
-                    <li class="nav-item"><a asp-action="Index" asp-controller="Contact" class="nav-link">Contact</a></li>
+                    @* <li class="nav-item"><a asp-action="Index" asp-controller="Blog" class="nav-link">Blog</a></li>
+                    <li class="nav-item"><a asp-action="Index" asp-controller="Contact" class="nav-link">Contact</a></li>*@
                 </ul>
+                <partial name="_LoginPartial" />
             </div>
         </div>
     </nav>
@@ -139,6 +140,8 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
     <script src="~/js/google-map.js"></script>
     <script src="~/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
 
 </body>
 </html>

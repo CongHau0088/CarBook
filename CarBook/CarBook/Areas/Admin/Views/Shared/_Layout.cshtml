@@ -1,4 +1,12 @@
-﻿<!DOCTYPE html>
+﻿
+
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -98,12 +106,9 @@
                     <p>Apps</p>
                     <span></span>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="docs/documentation.html">
-                        <i class="mdi mdi-file-document-box-outline menu-icon"></i>
-                        <span class="menu-title">Documentation</span>
-                    </a>
-                </li>
+
+                <partial name="_LoginPartial"/>
+
                 <li class="nav-item">
                     <a class="nav-link" href="http://www.bootstrapdash.com/demo/spica/template/">
                         <button class="btn bg-danger btn-sm menu-title">Upgrade to pro</button>
@@ -248,11 +253,12 @@
                                     <i class="mdi mdi-settings text-primary"></i>
                                     Settings
                                 </a>
-                                <a class="dropdown-item">
+                                <a class="dropdown-item" href="javascript:void(0);" id="logoutLink">
                                     <i class="mdi mdi-logout text-primary"></i>
                                     Logout
                                 </a>
                             </div>
+                           
                         </li>
                         <li class="nav-item">
                             <a href="#" class="nav-link icon-link">
@@ -294,6 +300,27 @@
         </div>
         <!-- page-body-wrapper ends -->
     </div>
+    <script>
+        document.getElementById('logoutLink').addEventListener('click', function (event) {
+            event.preventDefault(); // Ngăn chặn việc tải lại trang
+
+            // Tạo một form ẩn
+            var form = document.createElement('form');
+            form.method = 'POST';
+            form.action = '/Identity/Account/Logout'; // Đường dẫn tới trang Logout của bạn
+
+            // Tạo một input ẩn để bảo mật với ASP.NET Core chống tấn công CSRF
+            var input = document.createElement('input');
+            input.type = 'hidden';
+            input.name = '__RequestVerificationToken';
+            input.value = document.querySelector('input[name="__RequestVerificationToken"]').value;
+
+            // Thêm input vào form và gửi form
+            form.appendChild(input);
+            document.body.appendChild(form);
+            form.submit();
+        });
+    </script>
     <!-- container-scroller -->
     <!-- base:js -->
     <script src="~/admin/vendors/js/vendor.bundle.base.js"></script>
@@ -313,6 +340,8 @@
     <!-- End custom js for this page-->
     @RenderSection("Scripts", required: false)
     @RenderSection("styles", required: false)
+    @Html.AntiForgeryToken()
+
 </body>
 
 </html>
